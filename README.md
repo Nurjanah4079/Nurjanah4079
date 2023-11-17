@@ -1,6 +1,6 @@
 ### Hi, I'm Nurjanah 👋
 
-I'm 
+Informatics engineering fresh graduate with a passion for embracing technological challenges and innovation. Well-acquainted with python, SQL, and several more programming languages. I’ve experience in student organizations, lecturer assistant, web dev intern,and participated in training programs as a data engineer and data analyst.  I’m open to  a New Job Opportunity. 
 
 <!--
 **Nurjanah4079/Nurjanah4079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

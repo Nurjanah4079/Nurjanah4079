@@ -1,4 +1,4 @@
-### Hi, I'm Nurjanah img align="right" alt="Coding" width="400" src="https://media.tenor.com/l87lqcSylKgAAAAC/hi-hello.gif"
+### Hi, I'm Nurjanah 👋
 
 Informatics engineering fresh graduate with a passion for embracing technological challenges and innovation.  I’ve experience in student organizations, lecturer assistant, web dev intern, and participated in training programs as a data analyst and data engineer. 
 

@@ -1,4 +1,5 @@
 ### Hi, I'm Nurjanah 👋
+![GIF](https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626)
 
 Informatics engineering fresh graduate with a passion for embracing technological challenges and innovation.  I’ve experience in student organizations, lecturer assistant, web dev intern, and participated in training programs as a data analyst and data engineer. 
 

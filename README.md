@@ -1,6 +1,6 @@
 ### Hi, I'm Nurjanah 👋
 
-#T
+I'm 
 
 <!--
 **Nurjanah4079/Nurjanah4079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

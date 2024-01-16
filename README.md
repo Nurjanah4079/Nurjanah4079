@@ -5,6 +5,6 @@ Informatics engineering fresh graduate with a passion for embracing technologica
 How to reach me: 
 📧 nrjanah889@gmail.com
 
-View My Portfolio: 
+View My Portfolio Dashboard: 
 https://nurjanah4079.github.io/
 
